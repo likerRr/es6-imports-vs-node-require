@@ -1,6 +1,8 @@
 # Differences in declaring modules in ES6 and nodejs
 
-### output for `es6`
+### Run with `npm start`
+
+#### Output for `es6`
 
 ```
 Module B
@@ -13,7 +15,7 @@ End es6
 
 ```
 
-### output for `node`
+#### Output for `node`
 
 ```
 Module B
