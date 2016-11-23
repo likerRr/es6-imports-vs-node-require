@@ -1,0 +1,9 @@
+{
+  "name": "imports",
+  "version": "1.0.0",
+  "scripts": {
+    "startes6": "cd ./es6 && npm start",
+    "startnode": "cd ./node && npm start",
+    "start": "npm run startes6 && npm run startnode"
+  }
+}
